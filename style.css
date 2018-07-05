@@ -1,0 +1,42 @@
+body {
+	background-color: orange;
+}
+
+header {
+	background-color: beige;
+	border:1px solid black;
+	height: 90px;
+	margin-bottom: 40px;
+}
+
+.delete {
+
+}
+
+.delete-button {
+	position: relative;
+}
+
+.edit-button {
+	position: relative;
+}
+
+.center {
+	text-align: center;
+}
+
+.box-background {
+	background-color: beige;
+	width: 80%;
+	min-width: 500px
+	max-width: 1500px;
+	border: 1px solid black;
+}
+
+.top-margin {
+	margin-top: 20px;
+}
+
+.done {
+	text-decoration: line-through;
+}
